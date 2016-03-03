@@ -248,10 +248,8 @@ function create_config( )
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-https://github.com/BH-YAGHI/NOD32-BOT.git
-
-channel : @Nod32team
-sodu : @behrooZyaghi
+avira pro bot for manage group on new teachnology
+sudo: @king_of_ranger
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -320,7 +318,7 @@ ch: @Nod32team
 
 ]],
     help_text = [[
-NOD32 Commands list :
+AVAST Commands list :
  
 1-banhammer list ^
  
